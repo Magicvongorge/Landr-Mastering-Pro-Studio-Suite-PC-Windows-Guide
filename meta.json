@@ -1,0 +1,23 @@
+{
+  "repo": "landr-mastering-pro-studio-suite-pc-windows-guide",
+  "product": "Landr Mastering Pro Studio Suite PC Windows Guide",
+  "kind": "audio",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new3",
+  "format": "license-md-toolix-v1",
+  "category": "audio",
+  "topics": [
+    "landr-studio",
+    "ai-mastering",
+    "loudness-targets",
+    "distribution-prep",
+    "mix-assist",
+    "landr-setup-failed-fix",
+    "how-to-install-landr",
+    "landr-windows",
+    "landr-desktop-2026",
+    "landr-desktop-package"
+  ],
+  "site": "toolix.me"
+}
